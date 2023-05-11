@@ -1,0 +1,16 @@
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.csproj.AssemblyReference.cache
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.AssemblyInfo.cs
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Apex01\source\repos\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.exe
+C:\Users\Apex01\source\repos\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.deps.json
+C:\Users\Apex01\source\repos\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.runtimeconfig.json
+C:\Users\Apex01\source\repos\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.runtimeconfig.dev.json
+C:\Users\Apex01\source\repos\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.dll
+C:\Users\Apex01\source\repos\ExerciciosCSharp\bin\Debug\net5.0\ExerciciosCSharp.pdb
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.dll
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\refint\ExerciciosCSharp.dll
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.pdb
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ExerciciosCSharp.genruntimeconfig.cache
+C:\Users\Apex01\source\repos\ExerciciosCSharp\obj\Debug\net5.0\ref\ExerciciosCSharp.dll
